@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: August 23, 2023 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Dug up and dusted off the timetable tracker bot project, its #BackTo~~School~~Uni in a week anyway. Decided to not use an API library, but to write the interface myself, started figuring it out. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Turns out API requests are a lot simpler than I thought, I think I would have been figuring out the library longer than writing it myself. Also, I'm back to coding! I had forgotten how good it feels to solve problems and see your actually code working (after at least an hour of debugging, of course). 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/3ef60b0fbdb3be0e4ef8bdb8b58f1952f11dad00)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: August 24, 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Schedule for the next semester just dropped (weird, so early?): wrote that in, tweaking the database along the way. Wrote the logic of API polling, will probably finish it tomorrow. Wanted to start on scheduling, but was tired.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Woke up and got straight back to coding — sleep is just an obstacle i guess lol. Spent basically the whole day at it, going slow but going. Wanted to continue but was really tired, the brain was refusing to do the braining. Probably shouldn't overdo it — risk burning out having barely started.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/22300020d8f86b5c85284115db6bd4d30a5828ff)
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
