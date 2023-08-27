@@ -32,3 +32,13 @@
 
 **Link(s) to work**: [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/e67a957f5ed7cd48fe7314e4d32fd0f89ca6fa72)
 
+### Day 5: August 27, 2023
+
+**Today's progress**: Formatted a couple responses, did a little more refactoring. Basically the bot is almost done, the only thing left is the incomming message processing (which is by no means small or simple) and actual testing in work. Through blood and sweat prepped everything for deploy on Repl. Boy is that site buggy.
+
+**Thoughts**: I have no clue what is the best way to structure this, or if there even is one. All the time I'm like "Is this the right way to do it? Should I do this in a separate method? Should I get rid of this method? In which class should this method be?.." and so on, and so on. Kinda winging it right now, but trying to keep at least some standarts, so that I don't fall into my usual habit of writing shitty unreadable code that holds together on a wing and a prayer but hey, it works, right?..
+
+**Link(s) to work**: [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/67681a36db10d44cc505cc92f7a487b66dd3ed4e), 
+                     [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/d5e1947ec719f213c652b55b0dd04e35139432db)
+
+
