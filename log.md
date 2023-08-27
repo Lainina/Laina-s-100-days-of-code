@@ -16,3 +16,19 @@
 
 **Link(s) to work**: [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/22300020d8f86b5c85284115db6bd4d30a5828ff)
 
+### Day 3: August 25, 2023
+
+**Today's progress**: Wrote reminder logic. Eventually got stuck with an error, didn't feel like figuring it out so didn't commit.
+
+**Thoughts**: Programming is fun, but boy is it tiring.
+
+**Link(s) to work**: 
+
+### Day 4: August 26, 2023
+
+**Today's progress**: Fixed yesterday's error, did some refactoring, had an existential crisis over OOP principles and structuring.
+
+**Thoughts**: Continuing to realise how little I know. So many practies, guidelines, rules, everything. There's so much to learn, it seems very intimidating. Feel like Jon Snow.
+
+**Link(s) to work**: 
+
