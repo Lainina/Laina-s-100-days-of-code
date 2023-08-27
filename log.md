@@ -22,7 +22,7 @@
 
 **Thoughts**: Programming is fun, but boy is it tiring.
 
-**Link(s) to work**: 
+**Link(s) to work**: [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/e67a957f5ed7cd48fe7314e4d32fd0f89ca6fa72)
 
 ### Day 4: August 26, 2023
 
@@ -30,5 +30,5 @@
 
 **Thoughts**: Continuing to realise how little I know. So many practies, guidelines, rules, everything. There's so much to learn, it seems very intimidating. Feel like Jon Snow.
 
-**Link(s) to work**: 
+**Link(s) to work**: [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/e67a957f5ed7cd48fe7314e4d32fd0f89ca6fa72)
 
