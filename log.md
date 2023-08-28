@@ -41,4 +41,11 @@
 **Link(s) to work**: [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/67681a36db10d44cc505cc92f7a487b66dd3ed4e), 
                      [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/d5e1947ec719f213c652b55b0dd04e35139432db)
 
+### Day 6: August 28, 2023
 
+**Today's progress**: Made it so that the bot schedules things for today even if started in the morning, also added a logger.
+
+**Thoughts**: Very tired today, so coded for just a little bit. Not my best code, there definetly are better ways to do this, but the brain ain't braining.
+
+**Link(s) to work**: [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/0ff13db0b70bafa94cb5222e8323827aeab43c79)
+                      [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/280654392b949f904e0b4619ec63937394fa3a94)
