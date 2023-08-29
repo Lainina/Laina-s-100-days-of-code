@@ -47,5 +47,13 @@
 
 **Thoughts**: Very tired today, so coded for just a little bit. Not my best code, there definetly are better ways to do this, but the brain ain't braining.
 
-**Link(s) to work**: [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/0ff13db0b70bafa94cb5222e8323827aeab43c79)
+**Link(s) to work**: [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/0ff13db0b70bafa94cb5222e8323827aeab43c79),
                       [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/280654392b949f904e0b4619ec63937394fa3a94)
+
+### Day 7: August 29, 2023
+
+**Today's progress**: Added some more logs for reminders, used a regular expression bc why not, tested the reminders, so far everything works correctly (weirdly). Deployed everythingto repl, we'll see how it goes. Should definetly convert the database to dataclasses soon, it's becoming a mess. 
+
+**Thoughts**: The bot is basically done and functional. Yeah, I should finish the message handling, but no one really uses it anyway, so i dunno. I'll get to it at some point.
+
+**Link(s) to work**: [Redemption Bot] (https://github.com/Lainina/uni_VK_timetable_tracker/commit/6bf259f32850e753c9b518500a3053da555fc35b)
