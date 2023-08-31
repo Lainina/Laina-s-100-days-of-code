@@ -56,4 +56,12 @@
 
 **Thoughts**: The bot is basically done and functional. Yeah, I should finish the message handling, but no one really uses it anyway, so i dunno. I'll get to it at some point.
 
-**Link(s) to work**: [Redemption Bot] (https://github.com/Lainina/uni_VK_timetable_tracker/commit/6bf259f32850e753c9b518500a3053da555fc35b)
+**Link(s) to work**: [Redemption Bot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/6bf259f32850e753c9b518500a3053da555fc35b)
+
+### Day 8: August 30, 2023
+
+**Today's progress**: Added a log for sending messages for easier debug, repl's been doing some random stuff. Remade the entire (well, almost) scheduling logic, now should work better (definetly looks better). Finally made a separate module for all the todays and tomorrows, don't know whether that is the best decision, but so far it makes everything look a lot simpler and removes a lot of redundancy (well, by adding a dependency, but I think it's the lesser evil here).
+
+**Thoughts**: Boy, a sweaty day today, barely got myself to actually do anything, almost missed the day. But then decided to relax for a bit, whatch a couple episodes of House M.D. and then get to work. Worked wonders! Shouldn't force stuff when really tired, better take a break, rest, and then do everything. Ended up coding twice as long as planned (planned on the bare minimum of an hour).
+
+**Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/0cffb70e577b24cd43b3d93893c2c174b788cc3a)
