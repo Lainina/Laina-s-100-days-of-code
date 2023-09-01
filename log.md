@@ -74,3 +74,13 @@
 
 **Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/4332b2350231711b4f37a8e50426caf51ec0d4d5), 
                      [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/04558e95037e8154ed0e66194c65806a07ad34ea)
+
+### Day 10: September 1, 2023
+
+**Today's progress**: Made a lil' fix and then proceded to spend half the day trying to deploy this mess onto my old laptop. I think I succeded. (Maybe. I hope.) Also sorted the imports and made an example config. Not a lot, but it's at least something, am too tired to do more.
+
+**Thoughts**: 1/10th of the challenge done, yay! Also, the first day of Autumn everyone. My uni classes are starting, slowly (actually, very slowly) but surely (actually, not really surely...). Soon I'll most likely have a lot less time for this stuff. Well, I hope to finish whatever I plan on doing here within the next week and start on a new project already. Not sure yet what it's gonna be, I don't think I'm even remotely ready for the Big Project X that I've got planned, should find something simpler for now.
+
+**Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/b9215272521906513649edc53448a16980f28ae6), 
+                     [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/4055c630f4e49e07ded263f28f8e4b731d207e94),
+                     [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/280bc78cc4f7fd1075c3256f705bc0b7fe128b71)
