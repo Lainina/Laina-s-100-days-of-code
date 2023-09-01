@@ -65,3 +65,12 @@
 **Thoughts**: Boy, a sweaty day today, barely got myself to actually do anything, almost missed the day. But then decided to relax for a bit, whatch a couple episodes of House M.D. and then get to work. Worked wonders! Shouldn't force stuff when really tired, better take a break, rest, and then do everything. Ended up coding twice as long as planned (planned on the bare minimum of an hour).
 
 **Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/0cffb70e577b24cd43b3d93893c2c174b788cc3a)
+
+### Day 9: August 31, 2023
+
+**Today's progress**: New schedule dropped (again...), now with online classes. Rewrote the schedule, then restructured like half of the database, now with long-awaited dataclasses. No clue whether I did it right or not, but it works so far and looks better (I think).
+
+**Thoughts**: Last day of summer! Meaning I had to rush the bot to the working version. Perfect day to do a massive refactor... But well I did it anyway. Repl keeps on doing weird stuff, the server is just turning off and on randomly, which results in a bunch of glitches. Until I find a different place to deploy the bot it's gonna have to run on my old laptop at home. Not a problem for now with online classes since I'm at home, but will have to find a way to keep it in check from far away later. 
+
+**Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/4332b2350231711b4f37a8e50426caf51ec0d4d5), 
+                     [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/04558e95037e8154ed0e66194c65806a07ad34ea)
