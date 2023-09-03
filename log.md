@@ -84,3 +84,11 @@
 **Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/b9215272521906513649edc53448a16980f28ae6), 
                      [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/4055c630f4e49e07ded263f28f8e4b731d207e94),
                      [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/280bc78cc4f7fd1075c3256f705bc0b7fe128b71)
+
+### Day 11: September 3, 2023
+
+**Today's progress**: Some fixes, debugging and tests, also a batch file to start the bot in one click on my laptop/server at home. (Can't share it in the links, sadly)
+
+**Thoughts**: "1/10th of the challenge done," I said, and then proceded to skip a day. Great. Tbf I just blanked the entire day out, was too dissosiated to do anything at all, so it wasn't really a "skipped coding" issue. But well, I'm back today, 'cause as the rules go, I can skip a day, but never two in a row. Didn't do a lot, some debugging and fixing and minor changes. I don't think I'm gonna finish all the TODOs I have in the bot, should start new project ASAP. Between two options right now: a playlist converter from Youtube to Apple Music or some small fullstack app to learn basics of Django and React JS for future Big Project X.
+
+**Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/7c4052a42f24ecd7a5226db98ed74387071757a6), [2](https://github.com/Lainina/uni_VK_timetable_tracker/commit/be04e53643c8a95f686a326840f6f44c05fac00f), [3](https://github.com/Lainina/uni_VK_timetable_tracker/commit/60306dcef216652bbd6ca0ac2da50df6b2d81fe7), [4](https://github.com/Lainina/uni_VK_timetable_tracker/commit/65e8eb3f4949ee7b6cf755d1845d9d09d374d693)
