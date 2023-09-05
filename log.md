@@ -92,3 +92,11 @@
 **Thoughts**: "1/10th of the challenge done," I said, and then proceded to skip a day. Great. Tbf I just blanked the entire day out, was too dissosiated to do anything at all, so it wasn't really a "skipped coding" issue. But well, I'm back today, 'cause as the rules go, I can skip a day, but never two in a row. Didn't do a lot, some debugging and fixing and minor changes. I don't think I'm gonna finish all the TODOs I have in the bot, should start new project ASAP. Between two options right now: a playlist converter from Youtube to Apple Music or some small fullstack app to learn basics of Django and React JS for future Big Project X.
 
 **Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/7c4052a42f24ecd7a5226db98ed74387071757a6), [2](https://github.com/Lainina/uni_VK_timetable_tracker/commit/be04e53643c8a95f686a326840f6f44c05fac00f), [3](https://github.com/Lainina/uni_VK_timetable_tracker/commit/60306dcef216652bbd6ca0ac2da50df6b2d81fe7), [4](https://github.com/Lainina/uni_VK_timetable_tracker/commit/65e8eb3f4949ee7b6cf755d1845d9d09d374d693)
+
+### Day 12: September 4, 2023
+
+**Today's progress**: Minor improvements, finally started doing message handler logic, but got stuck so didn't commit.
+
+**Thoughts**: I should really stop doing this literally at night...
+
+**Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/e6b9f35098fcc754643ea5765a5eb49ffbbbea61)
