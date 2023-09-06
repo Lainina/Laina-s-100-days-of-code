@@ -100,3 +100,12 @@
 **Thoughts**: I should really stop doing this literally at night...
 
 **Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/e6b9f35098fcc754643ea5765a5eb49ffbbbea61)
+
+### Day 13: September 5, 2023
+
+**Today's progress**: Added database sorting function and most of the /edit_class command. Still got a lot of work though: need to differenciate between edits and adds, also should add the plain removing feature, and well the current code is very hacky, should fix that too.
+
+**Thoughts**: I gotta wake up in 4 hours for uni... But hey, I got this feature working. I think for me music in the background is essential: without it it's really difficult to get into the 'coding zone', with it — time practically flies by. So far [this](https://www.youtube.com/watch?v=q-NoDGhyQ8A) playlist has been the absolute MVP, I just turn it on and I'm gone for the hour. Gotta find some more though, or it's going to get old real quick.
+
+**Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/8f9f9207ebcd068df95050f85cc7aa689b670dda),
+                     [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/cb194ed3e7ae80c197cfcb46cedc781b6f8c70b8)
