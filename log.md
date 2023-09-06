@@ -97,7 +97,7 @@
 
 **Today's progress**: Minor improvements, finally started doing message handler logic, but got stuck so didn't commit.
 
-**Thoughts**: I should really stop doing this literally at night...
+**Thoughts**: I should really stop doing this in the middle of the night...
 
 **Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/e6b9f35098fcc754643ea5765a5eb49ffbbbea61)
 
@@ -109,3 +109,11 @@
 
 **Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/8f9f9207ebcd068df95050f85cc7aa689b670dda),
                      [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/cb194ed3e7ae80c197cfcb46cedc781b6f8c70b8)
+
+### Day 14: September 6, 2023
+
+**Today's progress**: Finished /edit_class, added /add_class. Should add the remove_class one. The code is an absolute hot garbage, it's in a deserate need of refactoring, will get to it at some point (I hope...)
+
+**Thoughts**: This time did a little speedrunning — didn't want to end up sleeping for two hours like I did today, really wanna get at least a little bit of my sleep schedule back. So tested what I learnt yesterday: turned on the MVP playlist, started coding. And my hypothesis was correct: I immideately got into the zone, time essentially flew by. Realised how much time had passed only when my internet died and the music stopped at the 50'th minute. Reloaded it, quickly wrapped up and was done with 1 minute left on the clock. It's like magic! Yesterday's point still stands though: no matter how good that playlist is, I need to find some more or it will inevitably get old.
+
+**Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/2e3105ad87fa12c08b320706a3efcfbd475c93b2)
