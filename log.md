@@ -117,3 +117,11 @@
 **Thoughts**: This time did a little speedrunning — didn't want to end up sleeping for two hours like I did today, really wanna get at least a little bit of my sleep schedule back. So tested what I learnt yesterday: turned on the MVP playlist, started coding. And my hypothesis was correct: I immideately got into the zone, time essentially flew by. Realised how much time had passed only when my internet died and the music stopped at the 50'th minute. Reloaded it, quickly wrapped up and was done with 1 minute left on the clock. It's like magic! Yesterday's point still stands though: no matter how good that playlist is, I need to find some more or it will inevitably get old.
 
 **Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/2e3105ad87fa12c08b320706a3efcfbd475c93b2)
+
+### Day 15: September 7, 2023
+
+**Today's progress**: Made it so that reminders now update whenever the database is updated. Used class inheritance for the first time! Did the observer pattern. Turns out at its core it's pretty simple.
+
+**Thoughts**: I will do more than the bare minimum I will do more than the bare minimum I will do more than the bare minimum I will do more than the bare minimum I will do more than the bare minimum I will do more tha-
+
+**Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/5793ca6a567b46a1c6dbffff4127990178545d25)
