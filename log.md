@@ -125,3 +125,11 @@
 **Thoughts**: I will do more than the bare minimum I will do more than the bare minimum I will do more than the bare minimum I will do more than the bare minimum I will do more than the bare minimum I will do more tha-
 
 **Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/5793ca6a567b46a1c6dbffff4127990178545d25)
+
+### Day 16: September 8, 2023
+
+**Today's progress**: I. Hate. VK API. Both the vk-api lib AND the API itself. AND BOTH DOCUMENTATIONS. It's like both the code and the docs were written by goddamn chickens on booze. Spent like an hour trying to figure out how to add the buttons and then 3 more trying to figure out why they didn't work. But hey, in the end after dissecting hundreds of lines of the lib's code I finally did it, they show up! Now just gotta make them also do something...
+
+**Thoughts**: Oh boy did I do more than the bare minimum. (Ok, to be fair it still wasn't as much as I was doing in the beginning of the challenge, but it's still a good amount of coding.) Tried out a couple other playlists while coding, they were ok, but not nearly as good as the MVP. Lo-Fi just kinda falls flat on me, even though I usually like it a lot, it's kinda distracting for me. Gotta try more different genres.
+
+**Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/8cb158da5158ecc3d813708a5e7412c2fbe66130)
