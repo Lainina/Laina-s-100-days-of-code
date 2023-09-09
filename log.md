@@ -133,3 +133,12 @@
 **Thoughts**: Oh boy did I do more than the bare minimum. (Ok, to be fair it still wasn't as much as I was doing in the beginning of the challenge, but it's still a good amount of coding.) Tried out a couple other playlists while coding, they were ok, but not nearly as good as the MVP. Lo-Fi just kinda falls flat on me, even though I usually like it a lot, it's kinda distracting for me. Gotta try more different genres.
 
 **Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/8cb158da5158ecc3d813708a5e7412c2fbe66130)
+
+### Day 17: September 9, 2023
+
+**Today's progress**: Continued with the buttons, a bit more smoothly this time. Still, I've got absolutely no clue how to properly structure this, seems very hacky, but I don't know how to write it better. Guess I'm gonna have to live with this for now, maybe I'll rewrite it once I have a better vision.
+
+**Thoughts**: Was very chill today since I had a rather good sleep, started early and didn't procrastinate 'till the absolute last minute while stressing out about procrastinating 'till the absolute last minute. Should really stop doing this procrastination thing. Feeling pretty neutural after today, but I'm getting kinda tired of this project. I really want to start the new one, but at the same it seems intimidating. A whole new thing, from zero, which is incredibly fun because I get to write everything from the ground up, and incredibly terrifying because I have to write everything from the ground up... Welp, I'll deal with it later I guess.
+
+**Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/1a74ddfbb5d2f6b7cb4e6a3a41b878077cdabe2f)
+
