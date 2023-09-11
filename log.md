@@ -142,3 +142,11 @@
 
 **Link(s) to work**: [RedemptionBot](https://github.com/Lainina/uni_VK_timetable_tracker/commit/1a74ddfbb5d2f6b7cb4e6a3a41b878077cdabe2f)
 
+### Day 18: September 10, 2023
+
+**Today's progress**: Started learning HTML.
+
+**Thoughts**: Welp, I officially said fuck it and went in a completely differnt direction — I guess I'm now a front-ender, ha-ha. (No. Nope. Noooooooooooooooooo. Not in a million years.) Found a cool [roadmap site](https://roadmap.sh), for now consulting with the full-stack roadmap just to cover the bases. Nothing much today — raw HTML sites are really painful to look at, so didn't even commit. Should probably make a repo with just test projects so that I can put them here. Anyway, I'm officially counting this as not breaking the rules of the challenge, since I'm learning a new language and know way too little to build. (I still wrote a mock site though.) Will try to write and commit something tomorrow as soon as I get to CSS and make the pages look... tolerable. 
+
+**Link(s) to work**: —
+
