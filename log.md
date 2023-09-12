@@ -150,3 +150,10 @@
 
 **Link(s) to work**: —
 
+### Day 20: September 12, 2023
+
+**Today's progress**: Made a skeleton of a site with HTML, started figuring out CSS.
+
+**Thoughts**: Well, I missed yesterday. Kinda. I mean I did open the sites and finished watching the video on HTML, wrote a little bit more... But that wasn't really enough honestly. Today life also kinda got in the way, but I wrote a bit of something, and tried to write a bit of CSS. Still not really enough, but I'm counting yesterday + today as one whole day I guess. Also, decided that I'm going to write a simple TODO-list (literally everybody has written at least one... Why be the exception?) website, since I recently tried using Google Sheets for keeping track of my uni assignments, but I'm waaaaay too lasy to figure out how to make it work properly. (I would probably need Excel for that anyway.) And so I decided to write it myself from scratch, genius, yeah, I know. Anyway, It's going to need some kind of logic on like sorting and saving stuff, so I'm going to need some sort of backend. Thinking of writing everything with vanilla JS just to get familliar with it. 
+
+**Link(s) to work**: —
