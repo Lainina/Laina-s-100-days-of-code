@@ -164,7 +164,9 @@
 
 **Thoughts**: Holy fucking hell JS is such a mess. I haven't even really started yet, but just reading through the basic syntax I'm already imagining how much "fun" it's going to be to debug. How do people even use this thing? And, more importantly, why? It just seems like the developers were really annoyed by errors in the terminal and decided that their language is going to just pull through at any cost, no matter how many type coercions and scope leaks will happen, the code is just going to burn and crash and scream and wail, but execute. 
 Okay, tbf there are some pretty cool features that I like and would have loved to have in Python, but damn, everything else just seems like such a headache to deal with. But I guess we'll see how it goes, maybe it's not going to be as much of a problem in practice as it is on paper (though I really doubt it). 
+
 P.S. I will make the repo at some point, I promise... I just got my hands a bit full atm, but I'll do it! (I hope.)
+
 P.P.S. Is it me or are these logs getting progressively longer and longer?..
 
 **Link(s) to work**: —
