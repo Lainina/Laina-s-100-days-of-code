@@ -150,10 +150,21 @@
 
 **Link(s) to work**: —
 
-### Day 20: September 12, 2023
+### Day 19: September 12, 2023
 
 **Today's progress**: Made a skeleton of a site with HTML, started figuring out CSS.
 
 **Thoughts**: Well, I missed yesterday. Kinda. I mean I did open the sites and finished watching the video on HTML, wrote a little bit more... But that wasn't really enough honestly. Today life also kinda got in the way, but I wrote a bit of something, and tried to write a bit of CSS. Still not really enough, but I'm counting yesterday + today as one whole day I guess. Also, decided that I'm going to write a simple TODO-list (literally everybody has written at least one... Why be the exception?) website, since I recently tried using Google Sheets for keeping track of my uni assignments, but I'm waaaaay too lasy to figure out how to make it work properly. (I would probably need Excel for that anyway.) And so I decided to write it myself from scratch, genius, yeah, I know. Anyway, It's going to need some kind of logic on like sorting and saving stuff, so I'm going to need some sort of backend. Thinking of writing everything with vanilla JS just to get familliar with it. 
+
+**Link(s) to work**: —
+
+### Day 20: September 13, 2023
+
+**Today's progress**: Ditched CSS and HTML and started learning JavaScript syntax since I was aready tired of figuring out styling and margins and all that bull instead of actually coding. Wrote the pseudocode for the backend, layed out some possible ways to implement the functionality using JS.
+
+**Thoughts**: Holy fucking hell JS is such a mess. I haven't even really started yet, but just reading through the basic syntax I'm already imagining how much "fun" it's going to be to debug. How do people even use this thing? And, more importantly, why? It just seems like the developers were really annoyed by errors in the terminal and decided that their language is going to just pull through at any cost, no matter how many type coercions and scope leaks will happen, the code is just going to burn and crash and scream and wail, but execute. 
+Okay, tbf there are some pretty cool features that I like and would have loved to have in Python, but damn, everything else just seems like such a headache to deal with. But I guess we'll see how it goes, maybe it's not going to be as much of a problem in practice as it is on paper (though I really doubt it). 
+P.S. I will make the repo at some point, I promise... I just got my hands a bit full atm, but I'll do it! (I hope.)
+P.P.S. Is it me or are these logs getting progressively longer and longer?..
 
 **Link(s) to work**: —
