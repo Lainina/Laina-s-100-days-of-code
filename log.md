@@ -178,3 +178,9 @@ P.P.S. Is it me or are these logs getting progressively longer and longer?..
 **Thoughts**: I reaaaaally gotta figure out that little tiny thing called time bloody managment. I'm just angry because I can't actually progress since I can't find enough time to do so. An hour a day? Heck, even two is nothing, I barely get into the zone, figure out what I wanna do, find where I left off, turn on the music... and the time is up and I have to wake up in 5 hours. Great. Seruously though, I have to make this entire thing more efficient, because I really can't learn nor work like that.
 
 **Link(s) to work**: —
+
+### Failed: September 18, 2023 
+
+Welp, I officialy count the challendge failed. Didn't code for 4 days, and there were some questionable days before that already, but now it's definitely over. Sorry! My mental health, nonexistent sleep schedule, procrastination and everything else bundled up together unitl it kinda reached a breaking point. In the beginning I was working on sheer enthusiasm and motivation and inspiration, but the moment those run out — everything just collapsed like a giant card house.
+
+I will definetely be trying again some time later, as soon as I fix my time management a bit.
