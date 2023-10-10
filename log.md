@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Round 1 (Failed) - Log
 
 ### Day 1: August 23, 2023 
 
