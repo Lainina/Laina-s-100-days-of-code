@@ -183,4 +183,4 @@ P.P.S. Is it me or are these logs getting progressively longer and longer?..
 
 Welp, I officialy count the challendge failed. Didn't code for 4 days, and there were some questionable days before that already, but now it's definitely over. Sorry! My mental health, nonexistent sleep schedule, procrastination and everything else bundled up together unitl it kinda reached a breaking point. In the beginning I was working on sheer enthusiasm and motivation and inspiration, but the moment those run out — everything just collapsed like a giant card house.
 
-I will definetely be trying again some time later, as soon as I fix my time management a bit.
+I will definetely be trying again some time later, as soon as I fix my time management a bit. 
